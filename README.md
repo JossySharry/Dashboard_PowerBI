@@ -40,4 +40,4 @@ Jossy Romero
 
 **Contacto:**
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jossy-romero-villanueva-data/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jossy-romero-data/)
